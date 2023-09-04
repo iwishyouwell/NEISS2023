@@ -16,3 +16,7 @@ PT TRIPPED OVER A RUG AND FELL BACKWARDS WHILE VISITING NURSING HOME.WEARING RUB
 70 YO M FELL INJURED HIP ON CORNER OF TABLEABRASION HIP
 NASAL BONE FX.67YOF FELL OUT OF A CHAIR.
 ```
+
+## Abbreviations
+
+https://www.asha.org/practice-portal/professional-issues/documentation-in-health-care/common-medical-abbreviations/
